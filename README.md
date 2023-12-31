@@ -72,7 +72,7 @@ Create a container for the form and add a heading.
 ## Step 3:
 Inside the form, create form groups for the student’s name, email, and course.
 
-# Step 4:
+## Step 4:
 Add a submit button for the form.
 
 ## Step 5:
